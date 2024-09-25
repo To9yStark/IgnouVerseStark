@@ -1,0 +1,194 @@
+{
+  "courseTypes": [
+    "Bachelor",
+    "Master's",
+    "Diploma",
+    "Certificate"
+  ],
+  "courses": {
+    "Bachelor": [
+      
+
+      {
+        "name": "Bachelor of Computer Applications (BCA)",
+        "url": "https://egyankosh.ac.in/handle/123456789/106391"
+      },
+      {
+        "name": "Bachelor of Arts (BAG)",
+        "url": "https://egyankosh.ac.in/handle/123456789/52770"
+      },
+      {
+        "name": "Bachelor of Commerce (BCOMG)",
+        "url": "https://egyankosh.ac.in/handle/123456789/52465"
+      },
+      {
+        "name": "Bachelor's in Commerce (B.Com)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2186"
+      },
+      {
+        "name": "Bachelor's in Commerce (B.Com) - Hindi",
+        "url": "https://egyankosh.ac.in/handle/123456789/44251"
+      },
+      {
+        "name": "BA in Psychology (BAPC)",
+        "url": "https://egyankosh.ac.in/handle/123456789/23167"
+      },
+      {
+        "name": "Bachelor of Arts (Honours) Economics (BAECH)",
+        "url": "https://egyankosh.ac.in/handle/123456789/53925"
+      },
+      {
+        "name": "Bachelor of Arts (Honours) Political Science (BAPSH)",
+        "url": "https://egyankosh.ac.in/handle/123456789/57819"
+      },
+      {
+        "name": "Bachelor's Degree in Arts (B. A.)(Hindi)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2839"
+      },
+      {
+        "name": "B.Com with Major in Corporate Affairs and Administration (B.Com (CA&A))",
+        "url": "https://egyankosh.ac.in/handle/123456789/2193"
+      }
+    ],
+    "Master's": [
+      {
+        "name": "Master of Computer Applications",
+        "url": "https://egyankosh.ac.in/handle/123456789/72354"
+      },
+      {
+        "name": "Master of Arts (History)(MAHI)",
+        "url": "https://egyankosh.ac.in/handle/123456789/72354"
+      },
+      {
+        "name": "Master's Degree in Library and Information Science (MLIS)",
+        "url": "https://egyankosh.ac.in/handle/123456789/4771"
+      },
+      {
+        "name": "कला में स्नातकोत्तर (इतिहास) (MAH)",
+        "url": "https://egyankosh.ac.in/handle/123456789/27829"
+      },
+      {
+        "name": "कला में स्नातकोत्तर (राजनीति विज्ञान) (MPS)",
+        "url": "https://egyankosh.ac.in/handle/123456789/27831"
+      },
+      {
+        "name": "कला में स्नातकोत्तर (समाजशास्त्र) (MSO)",
+        "url": "https://egyankosh.ac.in/handle/123456789/27832"
+      },
+      {
+        "name": "Master of Arts (English) (MEG)",
+        "url": "https://egyankosh.ac.in/handle/123456789/21556"
+      },
+      {
+        "name": "Master of Business Administration (MBA)-New",
+        "url": "https://egyankosh.ac.in/handle/123456789/78830"
+      },
+      {
+        "name": "Master of Commerce (M.COM) Hindi-New",
+        "url": "https://egyankosh.ac.in/handle/123456789/87883"
+      },
+      {
+        "name": "Master of Commerce (M.COM) English-New",
+        "url": "https://egyankosh.ac.in/handle/123456789/87798"
+      },
+      
+      {
+        "name": "M. A. in Psychology (MAPC)",
+        "url": "https://egyankosh.ac.in/handle/123456789/4448"
+      },
+      {
+        "name": "Master of Arts (Economics) (MAEC)",
+        "url": "https://egyankosh.ac.in/handle/123456789/97849"
+      }
+    ],
+    "Diploma": [
+      {
+        "name": "Post Graduate Diploma in Computer Applications (PGDCA)-New",
+        "url": "https://egyankosh.ac.in/handle/123456789/72365"
+      },
+      {
+        "name": "Post Graduate Diploma in Disaster Management (PGDDM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2443"
+      },
+      {
+        "name": "Post Graduate Diploma in Disaster Risk Reduction and Management (PGDDRRM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/105383"
+      },
+      {
+        "name": "Post Graduate Diploma in Library Automation and Networking (PGDLAN)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2383"
+      },
+      {
+        "name": "Post Graduate Diploma in Mental Health (PGDMH)",
+        "url": "https://egyankosh.ac.in/handle/123456789/39704"
+      },
+      {
+        "name": "Post Graduate Diploma in Disaster Management (PGDDM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2443"
+      },
+      {
+        "name": "Diploma in Creative Writing in English (DCE)",
+        "url": "https://egyankosh.ac.in/handle/123456789/13006"
+      },
+      {
+        "name": "Diploma in Urdu (DUL)",
+        "url": "https://egyankosh.ac.in/handle/123456789/38036"
+      },
+      {
+        "name": "Post-Graduate Diploma in Management (PGDIM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2243"
+      },
+      {
+        "name": "Diploma in Retailing (DIRIL)",
+        "url": "https://egyankosh.ac.in/handle/123456789/90745"
+      },
+      {
+        "name": "Post Graduate Diploma in Human Resource Management (PGDIHRM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/93026"
+      }
+      
+    ],
+    "Certificate": [
+      {
+        "name": "Certificate in Information Technology (CIT)",
+        "url": "https://egyankosh.ac.in/handle/123456789/612"
+      },
+      {
+        "name": "Certificate in Environmental Studies(CES)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2581"
+      },
+      {
+        "name": "Certificate Programme in Disaster Management (CDM) (English)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2614"
+      },
+      {
+        "name": "Certificate Programme in Disaster Management (CDM) (Hindi)",
+        "url": "https://egyankosh.ac.in/handle/123456789/40246"
+      },
+      {
+        "name": "Certificate Programme in Library and Information Science (CLIS)",
+        "url": "https://egyankosh.ac.in/handle/123456789/34843"
+      },
+      {
+        "name": "Certificate in Business Skills (CBS)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2227"
+      },
+      {
+        "name": "Certificate in NGO Management (CNM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/2222"
+      },
+      {
+        "name": "Certificate in Energy Technology and Management (CETM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/47498"
+      },
+      {
+        "name": "Advanced Certificate in Power Distribution Management (ACPDM)",
+        "url": "https://egyankosh.ac.in/handle/123456789/26152"
+      },
+      {
+        "name": "Certificate in Mobile Application Development (CMAD)",
+        "url": "https://egyankosh.ac.in/handle/123456789/70868"
+      }
+    ]
+  }
+}
